@@ -7,6 +7,17 @@ body{
    
 }
 
+.vid body{
+    background: url(../content/video.MOV);
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    display: inline;
+   
+}
+
+
+
 .jumbotron{
     background-color: transparent;
     display: inline-block;
