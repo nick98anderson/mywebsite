@@ -1,28 +1,18 @@
-body{
-    background: url(../content/background.png);
+#home-div{
+    height: 100vh;
+    background: url(../content//background.png);
     background-size: cover;
-    background-repeat: no-repeat;
-    text-align: center;
-    display: inline;
-   
-}
-
-.vid body{
-    background: url(../content/video.MOV);
-    background-size: cover;
-    background-repeat: no-repeat;
-    text-align: center;
-    display: inline;
-   
 }
 
 
-
-.jumbotron{
+#home-jumbotron{
     background-color: transparent;
     display: inline-block;
-    padding-bottom: 0%;
-    margin-bottom: 0em;
+    padding-bottom: 0rem;
+    margin-top: 2rem;
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
 }
 
 .nav{
@@ -33,3 +23,4 @@ body{
 a{
     color:#212529;
 }
+

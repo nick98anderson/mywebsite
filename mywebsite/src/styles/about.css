@@ -1,12 +1,14 @@
-#about-nav{
-    margin-top: 3rem;
+#about-div{
+    height: 100vh;
+    background: url(../content//background.png);
+    background-size: cover;
 }
 
-#jumbotron{
-    background-color: transparent black;
-    padding-bottom: 3rem;
+
+#about-jumbotron{
+    display: inline-block;
     margin-top: 2rem;
     text-align: left;
     width: 50%;
-    
+    margin-left: 25%;
 }

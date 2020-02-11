@@ -7,7 +7,7 @@ const About = () => {
     return(
         <div id='about-div'>
             <NavBar/>
-            <Jumbotron id='jumbotron'>
+            <Jumbotron id='about-jumbotron'>
                 <h1>About</h1>
                 <h5>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. 
                     The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, 

@@ -6,11 +6,11 @@ const NavBar = () => {
     return(
         <Navbar>
             <Nav>
-                <Nav.Link>Home</Nav.Link>
+                <Nav.Link href='/'>Home</Nav.Link>
                 <Nav.Link>About</Nav.Link>
                 <Nav.Link>Github</Nav.Link>
                 <Nav.Link>Resume</Nav.Link>
-                <Nav.Link>Music</Nav.Link>
+                <Nav.Link href='/music'>Music</Nav.Link>
             </Nav>
         </Navbar>
     )

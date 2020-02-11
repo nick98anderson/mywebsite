@@ -8,8 +8,8 @@ import { Link } from 'react-router-dom';
 
 const Home = () => {
     return(
-        <div className='vid body'>
-            <Jumbotron className='jumbotron'>
+        <div id='home-div'>
+            <Jumbotron id='home-jumbotron'>
                 <h1>Nick Anderson</h1>
                 <h4>Computing Science | University of Alberta</h4>
             </Jumbotron>
